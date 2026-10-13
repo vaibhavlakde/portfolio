@@ -148,6 +148,7 @@ const ProjectModal = {
           <li><strong>CMS Web Content Authoring Simulator:</strong> Real-time authoring panel that lets non-technical editors publish products and banners dynamically without editing code.</li>
           <li><strong>Browser Persistence:</strong> State synchronized with <code>localStorage</code> for carts and author updates.</li>
         </ul>
+        <p><strong>Live Demo:</strong> <a href="https://vaibhavlakde.github.io/flipkart-clone/" target="_blank" style="color: var(--accent-primary); font-weight:600;">vaibhavlakde.github.io/flipkart-clone</a></p>
         <p><strong>GitHub Repository:</strong> <a href="https://github.com/vaibhavlakde/flipkart-clone" target="_blank" style="color: var(--accent-primary); font-weight:600;">github.com/vaibhavlakde/flipkart-clone</a></p>
       `
     },
